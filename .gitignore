@@ -1,2 +1,4 @@
 #files to be ignored
 *.mp3
+
+!test.mp3
